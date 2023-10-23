@@ -3,3 +3,4 @@
 /C_STREAM/STREAM/*.o
 /C_STREAM/STREAM/*.exe
 /C_STREAM/STREAM/.idea
+.DS_Store
